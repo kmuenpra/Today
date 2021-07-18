@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "23B214A8-BA29-436E-B46F-FB711BA2EBF1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "093A1D76-F150-4B54-9EEC-681A8AC47051"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TryingBLE/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "CBUUIDs"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "093A1D76-F150-4B54-9EEC-681A8AC47051 - 244dd1698e1779d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for kBLE_Characteristic_uuid_Rx"
+                  moduleName = "TryingBLE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Dit/Documents/Today/TryingBLE/TryingBLE/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "093A1D76-F150-4B54-9EEC-681A8AC47051 - fdb8a88efe857724"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TryingBLE.CBUUIDs.kBLE_Characteristic_uuid_Rx.unsafeMutableAddressor : Swift.String"
+                  moduleName = "TryingBLE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Dit/Documents/Today/TryingBLE/TryingBLE/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "8">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
